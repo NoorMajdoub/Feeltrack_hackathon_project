@@ -1,4 +1,4 @@
-# Mental Health Support App Backend
+# Mental Health Support App Backend- winning hackathon project
 
 Winning hackathon project for a mental health and emotional wellbeing support application, created for the AI Hackathon (April 8-10, 2025). The app features a supportive AI chatbot that provides positive reframing and periodic supportive messages to users and a cute front.
 ## Features
